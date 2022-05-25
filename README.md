@@ -1,3 +1,3 @@
-# challenge2
+# Clone of Radio app design
 
-<img width=200 src ="https://github.com/MohammadTeeU/challenge2/blob/main/screenshots/2.png"/>
+<img width=200 src ="https://github.com/MohammadTeeU/clone-radio-app-design/blob/main/screenshots/2.png"/>
